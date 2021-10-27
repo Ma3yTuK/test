@@ -15,6 +15,5 @@ int main()
         if (i%c==0)
             cout << i << ' ';
     }
-    cout << endl;
     return 0;
 }
